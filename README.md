@@ -1,4 +1,53 @@
 Insights
+The data included in the analysis is limited to the period from 2011 to 2014 and the orders are successfully fulfilled (no refunds or cancellations).
+I. General analysis of basic indicators: quantity, revenue, profit
+1. About products and product types:
+- Bicycles account for the largest number and revenue (90268 products and about 94.65 million USD from 2011 -> 2014) in total sales and overwhelm the remaining 3 types of goods, which is understandable.
+- Bicycle parts (components) accounted for the least amount, but revenue ranked 2nd: 49044 products and about 12 million USD in revenue
+- Clothes/clothes and accessories account for a large amount (74K and 62K respectively) but the lowest revenue (only 1-2 million USD)
+- Except for the 2 best-selling items, Road Bike and Mountain Bike, the remaining items of all industry groups are not too different.
+- The changing trend of net profit across product categories almost coincides with sales
+2. About the geographical area
+- The US market dominated on all 3 indexes: revenue (about 63 million USD), gross profit (31.6 million USD) and profit margin (50.17%)
+- Canadian market ranked second, indexes are much lower than first place (revenue 16.36 million USD, gross profit 8.44 million USD) but highest profit margin of all countries (51.61%)
+=> potential market
+- In the remaining markets (including Australia, UK, France, Germany), the revenue is almost the same, ranging from 5 million -> 10 million USD.
+However, there is a special point that the profit margin in the Australian market is very low (only 6%).
+II. General analysis of additional metrics: Avg transaction size, revenue growth, quota hit
+1. Average transaction size: in general, in terms of analysis by product or by geographical area, there is a strong downward trend in the period from 2011 to 2014 (about $2210/transaction -> 537.18). USD/transaction)
+=> Average amount customers are willing to pay for 1 transaction decreased from 2012 -> 2014
+On the product side:
+The ratio of the average transaction size between products remains unchanged
+While 3 categories: Bikes, Clothing and Components all tend to decrease the average transaction size, Accessories (accessories) tend to increase slightly from 2011 -> 2012 and then decrease again.
++ In terms of geographical area:
+In the period 2011 -> 2012, Australia took the lead in terms of average transaction size, but in the period 2013 -> 2014 ranked last
++ Seasonality: average transaction size tends to increase at the beginning of the year (peaking in Q1-2) and decreasing towards the end of the year (Q4-3).
+
+2. Quarterly revenue and profit growth rate:
++ In terms of the whole year: 2011 grew the fastest (average 110%), 2012 + 2013 increased slightly, however in 2014 the rate decreased (-37.8%)
++ On a quarterly basis: the reason for the high average growth rate in 2011 is that from the second quarter to the third quarter of 2011, revenue increased very high by 423.78%, profit increased by 794.07%.
+From the third quarter of 2011 to the third quarter of 2012, both revenue and profit increased slightly (revenue rate from 3%-30%, profit rate from 19%-40.4%)
+However, from the third quarter of 2012 to the fourth quarter of 2012, there was a slight decrease (20% of revenue and 28.4% of profit).
+From Q1/2013 to Q1/2014, revenue and profit increased, until Q2 + 3/2014 fell sharply (about 40% of revenue and 60% of profit).
+
+3. Revenue quota achievement index (index =1 -> target, >1: exceeding target, <1: not meeting target)
+In the 4 years from 2011 to 2014, only in 2011 the revenue did not meet the set target, the rest exceeded the target, especially in 2014 reached 1.94 (nearly double the quota).
+III. Revenue analysis by sales channels
+1. Via retail store:
+- Top 10 stores with the highest revenue do not have much difference in revenue, mainly concentrated in 2 countries: USA and Canada
+Brakes and Gears, Excellent Riding Supplies, Totes and Baskets Company (US), Vigorous Excersise Company, Retail Mall (Canada)
+2. Through the method of approaching customers (Sale Reason)
+- The leading approach is price: 10.98 million USD, accounting for 37.6%
+- 3 approaches: through marketing programs, manufacturers, and through product quality, resulting in nearly equal revenue (from $5.5-6.36 million, accounting for 18-20% of the total). revenue)
+- Review approach generated 1.69 million in revenue, accounting for only 5.49%
+- The approach through television advertising brings very little revenue, USD 27,480, accounting for only 0.1% of total revenue, the rest 0.8% is from other methods.
+3. Through special promotions
+- Out of the total revenue from 2011-2014, there is no revenue from incentive programs for individual customers, only programs for agents/retail stores
+- Only 6.8% of revenue comes from incentive programs for agents/retailers, the remaining 93.2% is without incentives.
+- In incentive programs for agents/retailers, quantity incentives (discount with large quantity) account for the highest percentage of revenue, followed by new product incentives.
+Recommendations
+1. Geographical rating (country)
+- The above analysis has shown that the US and Canada are the two most important and stable marketsInsights
 Dữ liệu được đưa vào bài phân tích giới hạn trong thời gian từ 2011 đến 2014 và các đơn hàng đều được thực hiện thành công (không có đơn hoàn, hủy)
 I. Phân tích chung các chỉ số cơ bản: quantity, revenue, profit
 1. Về sản phẩm và loại sản phẩm:
