@@ -1,6 +1,12 @@
-
-
 **SALES PERFORMANCE ANALYSIS**
+
+**Overview of Sales performance**
+
+![image](https://github.com/trangdoan22/powerbi-projects/assets/140712745/292d923a-d432-41d2-8ef1-983151e08211)
+
+**Sales performance by sale channel**
+
+![image](https://github.com/trangdoan22/powerbi-projects/assets/140712745/a0b8b743-2f46-4e88-858a-24d05676dad5)
 
 **ENGLISH (VIETNAMESE BELOW)**
 
